@@ -1,0 +1,1227 @@
+Stage,Original,Phi 4,Fine-tuned,GPT4o
+Resources input,",National climate goals,Policies,Energy supply,Energy demand,""Macroeconomics, population""
+National climate goals,0,0,1,0,0
+Policies,1,0,1,1,0
+Energy supply,1,0,0,1,1
+Energy demand,1,1,1,0,0
+,1,0,1,1,0","olderEngagement
+,0,1,1,1,1
+,1,0,1,1,0
+,1,1,0,1,1
+,1,1,1,0,1
+,1,0,1,1,0",",Geopolitics,EU Policies,Energy Transition Policies,Energy System,Climate Change
+Geopolitics,0,1,0,0,0
+EU Policies,0,0,1,0,0
+Energy Transition Policies,0,0,0,1,0
+Energy System,0,0,0,0,1
+Climate Change,0,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,0,1
+,1,1,0,1,1
+,1,0,1,0,1
+,1,1,1,1,0"
+Resources input,",Spawning,Settlement,Stock dynamics,Stock assessment,Capture,Consuption
+Spawning,0,1,0,0,0,0
+Settlement,0,0,1,0,0,0
+Stock dynamics,1,0,0,1,0,0
+Stock assessment,0,0,0,0,1,0
+Capture,0,0,0,0,0,1
+Consuption,0,0,0,0,0,0","Index,OceanographicConditions,SpeciesMovements,MarineProtectedAreas,MarketDynamics,SocialNetworks,ConservationPolicies
+OceanographicConditions,0,1,1,0,0,1
+SpeciesMovements,1,0,1,1,1,1
+MarineProtectedAreas,1,1,0,0,0,1
+MarketDynamics,0,1,0,0,1,1
+SocialNetworks,0,1,0,1,0,1
+ConservationPolicies,1,1,1,1,1,0",",Human Needs,NGO,NGO,NGO,NGO,NGO
+Human Needs,0,1,0,0,0,0
+NGO,0,0,1,1,1,1
+NGO,0,0,0,1,1,1
+NGO,0,0,0,0,1,1
+NGO,0,0,0,0,0,1
+NGO,0,0,0,0,0,0",",
+,0,1,1,1,0,1
+,1,0,1,1,0,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,0,0,1,1,0,1
+,1,1,1,1,1,0"
+Resources input,",Wave excitation,Wave energy converter,Hydraulic cylinders,Hydraulic motor,Electrical generator,Power converter,Power to grid
+Wave excitation,0,1,0,0,0,0,0
+Wave energy converter,0,0,1,0,0,0,0
+Hydraulic cylinders,0,1,0,1,0,0,0
+Hydraulic motor,0,0,1,0,1,0,0
+Electrical generator,0,0,0,1,0,1,0
+Power converter,0,0,0,0,1,0,1
+Power to grid,0,0,0,0,0,0,0","nce,FishersOperators,EconomicFeasibility
+,0,1,1,0,1,1,1
+,1,0,1,1,1,0,1
+,1,1,0,1,0,1,1
+,0,1,1,0,1,0,1
+,1,1,0,1,0,1,1
+,1,0,1,0,1,0,1
+,1,1,0,1,1,0,0",",Climate,Environment,Species/turbines,Power capture,Focal length,Power take-off,Power grid
+Climate,0,1,1,0,0,0,0
+Environment,0,0,1,0,0,0,0
+Species/turbines,0,0,0,1,1,1,0
+Power capture,0,0,0,0,0,1,0
+Focal length,0,0,0,1,0,0,0
+Power take-off,0,0,0,0,0,0,1
+Power grid,0,0,0,0,0,0,0",",
+,0,1,1,1,0,0,1
+,1,0,1,1,1,0,1
+,1,1,0,1,1,1,1
+,1,1,1,0,1,1,1
+,0,1,1,1,0,1,1
+,0,0,1,1,1,0,1
+,1,1,1,1,1,1,0"
+Resources input,",fisheries management/decision makers,monitoring and research,natural systems fish stocks,fishers/industry
+fisheries management/decision makers,0,1,0,1
+monitoring and research,1,0,0,0
+natural systems fish stocks,0,1,0,0
+fishers/industry,1,1,1,0","Index,FishStocks,ManagementStrategies,EconomicFactors,EnvironmentalConditions
+FishStocks,0,1,1,1
+ManagementStrategies,1,0,1,1
+EconomicFactors,1,1,0,1
+EnvironmentalConditions,1,1,1,0",",Environment,Human Activities,Fishing,Other Activities
+Environment,0,1,1,1
+Human Activities,1,0,1,1
+Fishing,1,1,0,1
+Other Activities,1,1,1,0",",
+,0,1,1,1
+,1,0,1,1
+,1,1,0,1
+,1,1,1,0"
+Resources input,",1 artisanal,1 subsistence,mahi,3 industrial,2 industrial,1 industrial,1 recreational
+1 artisanal,0,1,0,0,0,1,0
+1 subsistence,1,0,0,0,0,0,0
+mahi,0,1,0,0,0,0,0
+3 industrial,0,1,0,0,0,1,1
+2 industrial,0,1,0,0,0,1,1
+1 industrial,1,0,0,1,0,0,1
+1 recreational,0,0,0,1,1,1,0","uel,CatchType
+,0,1,1,0,0,0,0
+,1,0,1,1,1,0,1
+,1,1,0,0,0,0,1
+,0,1,0,0,1,1,1
+,0,1,0,1,0,1,1
+,0,0,0,1,1,0,1
+,0,1,1,1,1,1,0",",Type 1,Type 2,Type 3,Human Needs,Global,Local
+Type 1,0,0,0,1,0,0
+Type 2,0,0,0,1,0,0
+Type 3,0,0,0,1,0,0
+Human Needs,0,0,0,0,0,0
+Global,1,1,1,0,0,0
+Local,1,1,1,0,0,0",",
+,0,1,1,0,0,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,0,1,1,0,1,1
+,0,1,1,1,0,1
+,1,1,1,1,1,0"
+Resources input,",Goods and services market,producers,government,households,capital market,job market,fish stock,catch
+Goods and services market,0,1,0,1,0,0,0,0
+producers,0,0,1,0,0,1,0,0
+government,1,0,0,1,0,0,0,0
+households,1,0,1,0,0,0,0,0
+capital market,0,1,1,1,0,0,0,0
+job market,0,0,0,1,0,0,0,0
+fish stock,0,0,0,0,0,0,0,0
+catch,0,0,0,0,0,0,0,0","Index,Climate,Species/Turbines,EnvironmentalConditions,MarketDynamics,FishingEffort,FuelPrices,GovernanceStructures,EconomicConditions
+Climate,0,1,1,0,0,0,0,0
+Species/Turbines,1,0,1,1,1,0,1,1
+EnvironmentalConditions,1,1,0,0,0,0,0,0
+MarketDynamics,0,1,0,0,1,1,1,1
+FishingEffort,0,1,0,1,0,1,1,1
+FuelPrices,0,0,0,1,1,0,1,1
+GovernanceStructures,0,1,0,1,1,1,0,1
+EconomicConditions,0,1,0,1,1,1,1,0",",Fishing effort,Fish stock,Total revenue,Total cost,Net income,Investment,CFRP,Fuel
+Fishing effort,0,1,1,0,0,0,0,0
+Fish stock,1,0,0,0,0,0,0,0
+Total revenue,0,0,0,1,0,0,0,0
+Total cost,0,0,1,0,1,0,0,0
+Net income,0,0,0,0,0,1,0,0
+Investment,1,0,0,0,0,0,0,0
+CFRP,0,0,0,0,0,0,0,1
+Fuel,0,0,0,0,0,0,1,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Resources input,"community(medium pelagics/forage fish…)
+society(communities/institutions/organizations…),0,1,0,0,1,0
+objectives(seafood production/recreational opportunities/profits…),0,0,0,0,0,0
+environment(cold pool/freshwater discharge…),0,0,0,1,1,0
+marine habitat(pelagic habitat/seafloor demersal habitat…),0,0,0,0,0,1
+human activities(recreational fisheries/commercial fisheries.tourism…),1,0,1,1,0,1
+marine community(medium pelagics/forage fish…),0,0,0,0,1,0","smentMSE
+,0,1,0,0,1,1
+,1,0,1,1,1,1
+,0,1,0,1,1,1
+,0,1,1,0,1,0
+,1,1,1,1,0,1
+,1,1,1,0,1,0",",Human Activities,Climate Change,Habitat,Habitat Quality,Essential Habitat,Fish Community
+Human Activities,0,1,1,0,0,0
+Climate Change,0,0,1,0,0,0
+Habitat,0,0,0,1,1,0
+Habitat Quality,0,0,0,0,0,1
+Essential Habitat,0,0,0,0,0,1
+Fish Community,0,0,0,0,0,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Resources input,",Sea state model,Hydrodynamic model,Gearbox,Power take off,Energy storage,Resistor Chopper,Linear damping control
+Sea state model,0,1,0,0,0,0,0
+Hydrodynamic model,0,0,1,0,0,0,1
+Gearbox,0,1,0,1,0,0,1
+Power take off,0,0,1,0,1,1,1
+Energy storage,0,0,0,0,0,0,0
+Resistor Chopper,0,0,0,0,0,0,0
+Linear damping control,0,0,1,1,0,0,0","MarketGovernance,StakeholderEngagement,TestingOceanDeployment
+,0,1,1,0,1,1,1
+,1,0,1,1,1,0,1
+,1,1,0,1,0,1,1
+,0,1,1,0,1,1,1
+,1,1,0,1,0,1,1
+,1,0,1,1,1,0,1
+,1,1,1,1,1,1,0",",Power take off,Generator,Super capacitors,Power electronics,Resistor bank,Hydrodynamics,Buoyancy
+Power take off,0,1,1,0,0,0,0
+Generator,0,0,1,1,1,0,0
+Super capacitors,0,0,0,1,0,0,0
+Power electronics,0,0,0,0,1,0,0
+Resistor bank,0,0,0,0,0,0,0
+Hydrodynamics,0,0,0,0,0,0,1
+Buoyancy,1,0,0,0,0,0,0",",
+,0,1,1,0,1,1,1
+,1,0,1,1,1,1,1
+,1,1,0,1,1,1,1
+,0,1,1,0,1,1,1
+,1,1,1,1,0,1,1
+,1,1,1,1,1,0,1
+,1,1,1,1,1,1,0"
+Resources input,",Marine resource for OWF,Marine resource for fishing,Composite marine resource
+Marine resource for OWF,0,1,1
+Marine resource for fishing,1,0,1
+Composite marine resource,1,1,0","Index,Climate,MarineResourceProductivity,MarketDynamics
+Climate,0,1,0
+MarineResourceProductivity,1,0,1
+MarketDynamics,0,1,0",",Energy,Marine Resource,Other Sectors
+Energy,0,1,1
+Marine Resource,1,0,1
+Other Sectors,1,1,0",",
+,0,1,1
+,1,0,1
+,1,1,0"
+Resources input,",sea surface temperature,catch,squid population,fishing effort,price for fishers,market price,trader cooperation,proportion of pacific squid landings
+sea surface temperature,0,1,0,0,0,0,0,0
+catch,0,0,1,0,1,1,0,0
+squid population,0,1,0,0,0,0,0,0
+fishing effort,0,1,0,0,0,0,0,0
+price for fishers,0,0,0,1,0,0,0,0
+market price,0,0,0,0,1,0,0,0
+trader cooperation,0,0,0,0,1,0,0,0
+proportion of pacific squid landings,0,0,0,0,0,0,1,0","Index,Climate,SpeciesDistribution,EnvironmentalConditions,MarketDynamics,Fisher/OperatorActivities,FuelAvailability,GovernanceStructures,SocialRelationships
+Climate,0,1,1,0,1,0,0,0
+SpeciesDistribution,1,0,1,1,1,0,0,0
+EnvironmentalConditions,1,1,0,0,1,0,0,0
+MarketDynamics,0,1,0,0,1,1,1,1
+Fisher/OperatorActivities,1,1,1,1,0,1,1,1
+FuelAvailability,0,0,0,1,1,0,0,0
+GovernanceStructures,0,0,0,1,1,0,0,1
+SocialRelationships,0,0,0,1,1,0,1,0",",Human Needs,Global Issues,Environmental Issues,Contextual Factors,Sense of Place,Marine Habitat Conditions,Fisheries Management,Squid Population
+Human Needs,0,1,0,0,0,0,0,0
+Global Issues,0,0,1,0,0,0,0,0
+Environmental Issues,0,0,0,1,0,0,0,0
+Contextual Factors,0,0,0,0,1,0,0,0
+Sense of Place,0,0,0,0,0,1,0,0
+Marine Habitat Conditions,0,0,0,0,0,0,1,0
+Fisheries Management,0,0,0,0,0,0,0,1
+Squid Population,0,1,0,0,0,0,0,0",",
+,0,1,1,1,1,0,1,1
+,1,0,1,0,0,0,1,1
+,1,1,0,1,0,0,0,1
+,1,0,1,0,1,1,1,1
+,1,0,0,1,0,1,1,1
+,0,0,0,1,1,0,1,1
+,1,1,0,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Resources input,",discards,regulated fishing,illegal,animal feed,byproducts,rubbish,direct,available
+discards,0,0,0,0,0,0,0,1
+regulated fishing,1,0,0,0,0,0,0,1
+illegal,0,0,0,0,0,0,0,1
+animal feed,0,0,0,0,0,0,0,0
+byproducts,0,0,0,1,0,1,1,0
+rubbish,0,0,0,0,0,0,0,0
+direct,0,0,0,0,0,0,0,0
+available,0,0,0,1,1,0,1,0","Index,Climate,Species/Turbines,Environment,Market,Fisher/Operator,NutrientContribution,FoodWaste,Governance
+Climate,0,1,1,1,0,0,0,0
+Species/Turbines,1,0,1,1,1,1,1,0
+Environment,1,1,0,1,0,0,0,0
+Market,1,1,1,0,1,1,1,1
+Fisher/Operator,0,1,0,1,0,1,1,1
+NutrientContribution,0,1,0,1,1,0,1,0
+FoodWaste,0,1,0,1,1,1,0,0
+Governance,0,0,0,1,1,0,0,0",",Human Needs,Global Economics,Policy,Technology,Seafood Processing,Processing Bycatch,Seafood Supply,Environment
+Human Needs,0,1,1,0,0,0,0,0
+Global Economics,0,0,0,0,0,0,1,0
+Policy,0,0,0,1,0,0,1,0
+Technology,0,0,0,0,0,0,1,0
+Seafood Processing,0,0,0,0,0,0,0,0
+Processing Bycatch,0,0,0,0,0,0,0,0
+Seafood Supply,1,0,0,0,1,0,0,0
+Environment,0,0,0,0,0,0,1,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Resources input,",Perturbation,Fisheries Participation,Initial Well-being Effects,Adaptive Behavior,Cumulative Well-being Effects,Demographics,Fishers Position,Well-being Position
+Perturbation,0,1,0,0,0,0,0,0
+Fisheries Participation,0,0,1,0,0,1,1,0
+Initial Well-being Effects,0,0,0,1,0,0,0,0
+Adaptive Behavior,0,0,0,0,1,0,0,1
+Cumulative Well-being Effects,0,0,0,0,0,0,0,0
+Demographics,0,0,0,0,0,0,1,1
+Fishers Position,0,0,0,0,0,0,0,0
+Well-being Position,0,0,0,0,1,0,0,0","Index,Climate,SpeciesDistribution,EnvironmentalConditions,RecreationalActivities,HumanWell-being,AdaptiveBehaviors,MarketDynamics,GovernanceStructures
+Climate,0,1,1,1,0,1,0,0
+SpeciesDistribution,1,0,1,1,0,1,1,0
+EnvironmentalConditions,1,1,0,1,0,1,0,0
+RecreationalActivities,1,1,1,0,1,1,1,0
+HumanWell-being,0,0,0,1,0,1,1,1
+AdaptiveBehaviors,1,1,1,1,1,0,1,1
+MarketDynamics,0,1,0,1,1,1,0,1
+GovernanceStructures,0,0,0,0,1,1,1,0",",Fisher,Consumers,NGO,Researchers,Tourists,Government,Process,Outcome
+Fisher,0,1,1,1,0,1,1,0
+Consumers,0,0,1,0,0,1,1,0
+NGO,1,0,0,1,0,1,1,0
+Researchers,1,0,1,0,0,1,1,0
+Tourists,0,0,0,0,0,1,1,0
+Government,1,1,1,1,1,0,1,1
+Process,1,1,1,1,1,1,0,1
+Outcome,0,0,0,0,0,1,0,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Resources input,",socio-economic development,quality of life,water infrastructure,environmental footprint,environmental state
+socio-economic development,0,1,1,1,0
+quality of life,1,0,0,0,0
+water infrastructure,0,0,0,0,1
+environmental footprint,0,0,0,0,1
+environmental state,0,1,0,0,0","lityOfLife
+,0,1,1,0,0
+,1,0,1,1,1
+,1,1,0,0,1
+,0,1,0,0,1
+,0,0,1,1,0",",Environmental State,Water Management,Water Resources,Social System,Quality of Life
+Environmental State,0,1,1,0,0
+Water Management,0,0,0,1,0
+Water Resources,1,0,0,0,0
+Social System,0,1,0,0,1
+Quality of Life,0,0,0,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Resources input,",Accelerated,Prolonged,Small fish consumption,Small fish growth,Large fish,Aquatic prey,Litter
+Accelerated,0,0,0,1,1,0,0
+Prolonged,0,0,1,1,1,0,0
+Small fish consumption,0,0,0,0,0,1,0
+Small fish growth,0,0,0,0,0,1,0
+Large fish,0,0,0,0,0,1,0
+Aquatic prey,0,0,0,0,0,0,1
+Litter,0,0,0,0,0,0,0","Index,Climate,Species/Turbines,Environment,Market,Fisher/Operator,ResourcePhenology,EcosystemProcesses
+Climate,0,1,1,1,0,1,1
+Species/Turbines,1,0,1,1,0,1,1
+Environment,1,1,0,1,0,1,1
+Market,1,1,1,0,1,0,0
+Fisher/Operator,0,0,0,1,0,0,0
+ResourcePhenology,1,1,1,0,0,0,1
+EcosystemProcesses,1,1,1,0,0,1,0",",Phenological Resources,Habitat Conditions,Aquatic Prey,Litter Processing,Terrestrial Prey Inputs,Fish,Human
+Phenological Resources,0,0,0,0,0,1,0
+Habitat Conditions,0,0,1,1,0,1,0
+Aquatic Prey,0,0,0,0,0,1,0
+Litter Processing,0,0,0,0,0,0,0
+Terrestrial Prey Inputs,0,0,0,0,0,1,0
+Fish,0,0,1,1,0,0,0
+Human,0,0,0,0,0,0,0",",
+,0,1,1,1,1,1,1
+,1,0,1,1,1,1,1
+,1,1,0,1,1,1,1
+,1,1,1,0,1,1,1
+,1,1,1,1,0,1,1
+,1,1,1,1,1,0,1
+,1,1,1,1,1,1,0"
+Resources input,",1 artisanal,1 subsistence,mahi,3 industrial,2 industrial,1 industrial,1 recreational
+1 artisanal,0,1,0,1,1,1,1
+1 subsistence,1,0,0,0,0,0,1
+mahi,1,0,0,0,0,0,0
+3 industrial,1,0,0,0,0,0,0
+2 industrial,1,0,0,0,0,0,0
+1 industrial,1,0,0,0,0,0,0
+1 recreational,0,1,0,0,0,0,0","ernance
+,0,1,1,0,0,0,1
+,1,0,1,1,1,1,0
+,1,1,0,1,0,0,1
+,0,1,1,0,1,1,1
+,0,1,0,1,0,1,1
+,0,0,0,1,1,0,0
+,1,0,1,1,1,0,0",",Type 1,Type 2,Type 3,Human Needs,Global,Local
+Type 1,0,0,0,1,0,0
+Type 2,0,0,0,1,0,0
+Type 3,0,0,0,1,0,0
+Human Needs,0,0,0,0,0,0
+Global,1,1,1,0,0,0
+Local,1,1,1,0,0,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Resources input,",carbon,mesopelagic,decision,quota,catch,mesopelagic,lobby,profitability
+carbon,0,0,1,0,0,0,0,0
+mesopelagic,1,0,0,0,1,0,0,0
+decision,0,0,0,1,0,0,0,0
+quota,0,0,0,0,1,0,0,0
+catch,0,1,0,0,0,1,0,0
+mesopelagic,0,0,0,0,0,0,0,1
+lobby,0,0,0,1,0,0,0,0
+profitability,0,0,0,0,1,0,1,0","Index,Climate,Species/Turbines(MesopelagicFishes),Environment,Market,Fisher/Operator,Fuel,Governance,CarbonSequestration
+Climate,0,1,1,1,0,0,1,1
+Species/Turbines(MesopelagicFishes),1,0,1,1,1,0,1,1
+Environment,1,1,0,1,0,0,1,1
+Market,1,1,1,0,1,1,1,0
+Fisher/Operator,0,1,0,1,0,1,1,0
+Fuel,0,0,0,1,1,0,1,0
+Governance,1,1,1,1,1,1,0,1
+CarbonSequestration,1,1,1,0,0,0,1,0",",Organisms,Phytoplankton,Zooplankton,Mesopelagic Fish,Carbon,Detritus,Jellyfish,Other
+Organisms,0,1,0,0,0,0,0,0
+Phytoplankton,0,0,1,0,1,1,0,0
+Zooplankton,0,0,0,1,0,1,0,0
+Mesopelagic Fish,0,0,0,0,0,0,1,1
+Carbon,0,0,0,0,0,0,0,0
+Detritus,0,0,0,0,1,0,0,0
+Jellyfish,0,0,0,0,0,0,0,0
+Other,0,0,0,0,0,0,0,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Resources input,",fishing,captured,recruit,recruitment,natural,low,predation
+fishing,0,1,0,0,0,0,0
+captured,0,0,1,0,0,0,0
+recruit,1,0,0,0,0,0,1
+recruitment,0,0,1,0,0,0,0
+natural,0,0,1,0,0,0,0
+low,0,0,0,0,1,0,1
+predation,0,0,0,0,1,0,0","Index,Climate,Species/Turbines(P.mariae),Environment,Market,Fisher/Operator,Pollution,RiverFlow
+Climate,0,1,1,1,0,0,1
+Species/Turbines(P.mariae),1,0,1,1,1,1,1
+Environment,1,1,0,1,0,1,1
+Market,1,1,1,0,1,0,0
+Fisher/Operator,0,1,0,1,0,0,1
+Pollution,0,1,1,0,0,0,1
+RiverFlow,1,1,1,0,1,1,0",",river flow,fishing,predation,migration,natural growth,upstream migration,downstream migration
+river flow,0,0,0,0,1,0,0
+fishing,0,0,0,0,1,0,0
+predation,0,0,0,0,1,0,0
+migration,0,0,0,0,1,0,0
+natural growth,0,0,1,1,0,1,1
+upstream migration,0,0,0,0,0,0,0
+downstream migration,0,0,0,0,0,0,0",",
+,0,1,1,1,1,1,1
+,1,0,1,1,1,1,1
+,1,1,0,1,1,1,1
+,1,1,1,0,1,1,1
+,1,1,1,1,0,1,1
+,1,1,1,1,1,0,1
+,1,1,1,1,1,1,0"
+Resources input,",society(communities/institutions/organizations…),objectives(seafood production/recreational opportunities/profits…),environment(cold pool/freshwater discharge…),marine habitat(pelagic habitat/seafloor demersal habitat…),human activities(recreational fisheries/commercial fisheries.tourism…),marine community(medium pelagics/forage fish…)
+society(communities/institutions/organizations…),0,1,0,0,1,0
+objectives(seafood production/recreational opportunities/profits…),0,0,0,0,0,0
+environment(cold pool/freshwater discharge…),0,0,0,1,1,0
+marine habitat(pelagic habitat/seafloor demersal habitat…),0,0,0,0,0,1
+human activities(recreational fisheries/commercial fisheries.tourism…),1,0,1,1,0,1
+marine community(medium pelagics/forage fish…),0,0,0,0,1,0","erOperators,RiskAssessmentMSE
+,0,1,1,0,0,1
+,1,0,1,1,1,1
+,0,1,0,1,1,1
+,1,1,0,0,1,1
+,0,1,1,0,0,1
+,1,1,1,1,1,0",",Human Activities,Climate Change,Habitat,Habitat Quality,Essential Habitat,Fish Community
+Human Activities,0,1,1,0,0,0
+Climate Change,0,0,1,0,0,0
+Habitat,0,0,0,1,1,0
+Habitat Quality,0,0,0,0,0,1
+Essential Habitat,0,0,0,0,0,1
+Fish Community,0,0,0,0,0,0",",
+,0,1,1,1,1,0
+,0,0,1,1,1,1
+,0,0,0,1,1,0
+,0,0,0,0,1,0
+,0,0,0,0,0,1
+,0,0,0,0,0,0"
+Resources input,",NBS Intervention,Costs to residents,Benefits to residents,Public support for NBS
+NBS Intervention,0,1,1,0
+Costs to residents,0,0,0,1
+Benefits to residents,0,0,0,1
+Public support for NBS,1,0,0,0","Climate,WaveEnergyTurbines,MarketGovernance,StakeholderConsultation
+,0,1,1,1
+,1,0,1,0
+,1,1,0,1
+,1,0,1,0",",Environment,Human Activities,Technique,Marine Issues
+Environment,0,1,1,1
+Human Activities,1,0,1,1
+Technique,1,1,0,1
+Marine Issues,1,1,1,0",",
+,0,1,1,1
+,1,0,1,1
+,1,1,0,1
+,1,1,1,0"
+Appropriation & circulation,",fisher,fish,grass,NGO,tree
+fisher,0,1,0,0,0
+fish,1,0,0,0,0
+grass,0,1,0,0,0
+NGO,0,0,0,0,1
+tree,1,1,1,0,0","Index
+BiodiversityConservation,0,1,1,1,1
+Socio-EconomicDevelopmentInitiatives,1,0,0,1,1
+OceanographicConditions,1,0,0,0,1
+CommunityEngagement&Governance,1,1,0,0,1
+Monitoring&AdaptiveManagement,1,1,1,1,0",",Marine Protected Areas,Megafauna Conservation,Alternative Livelihood,Mosquito Net Malaria Prophylaxis,Local Socioeconomic Context
+Marine Protected Areas,0,1,1,1,1
+Megafauna Conservation,1,0,1,1,1
+Alternative Livelihood,1,1,0,1,1
+Mosquito Net Malaria Prophylaxis,1,1,1,0,1
+Local Socioeconomic Context,1,1,1,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Appropriation & circulation,",satelite,ship A,ship B,ship C,vessel traffic service vts
+satelite,0,0,0,0,0
+ship A,1,0,1,1,1
+ship B,1,1,0,1,1
+ship C,1,1,1,0,1
+vessel traffic service vts,0,1,1,1,0","Index,VesselArrivalTimes,PortOperationsEfficiency,OceanographicConditions,DataAnalyticsSystems,GlobalPortChainManagement
+VesselArrivalTimes,0,1,1,1,1
+PortOperationsEfficiency,1,0,0,1,1
+OceanographicConditions,1,0,0,1,0
+DataAnalyticsSystems,1,1,1,0,1
+GlobalPortChainManagement,1,1,0,1,0",",Climate,Weather,Waves,Ship,Port
+Climate,0,1,1,0,0
+Weather,0,0,1,0,0
+Waves,0,0,0,0,0
+Ship,0,0,0,0,1
+Port,1,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Appropriation & circulation,",Technical and Financial Apparatus,Suppliers,Producers,Users,Research Organizations and Professional Training,Government and Agencies
+Technical and Financial Apparatus,0,0,1,0,0,1
+Suppliers,0,0,1,0,0,0
+Producers,0,0,0,1,0,0
+Users,0,0,0,0,0,0
+Research Organizations and Professional Training,0,0,1,0,0,0
+Government and Agencies,0,0,1,1,0,0","Climate,Waves,Weather,Port,Ship,Governance
+,0,1,1,0,0,0
+,1,0,1,0,0,0
+,1,1,0,0,0,0
+,0,0,0,0,1,1
+,0,0,0,1,0,1
+,0,0,0,1,1,0",",Port,Ship,Shipping company,Institution of research,University,NGO
+Port,0,1,1,0,0,0
+Ship,1,0,0,0,0,0
+Shipping company,1,0,0,0,0,0
+Institution of research,0,0,0,0,1,1
+University,0,0,0,1,0,1
+NGO,0,0,0,1,1,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Appropriation & circulation,",Technical systems,Organisation,Human,Task,Environment
+Technical systems,0,1,1,1,0
+Organisation,1,0,1,0,1
+Human,1,1,0,1,1
+Task,1,0,1,0,1
+Environment,0,1,1,1,0","Index,ShipSecurityManagement,PiracyThreatPerception,EnvironmentalConditions,OrganizationalRiskReductionPractices,CrewSafety&Operation
+ShipSecurityManagement,0,1,1,1,1
+PiracyThreatPerception,1,0,0,1,1
+EnvironmentalConditions,1,0,0,0,1
+OrganizationalRiskReductionPractices,1,1,0,0,1
+CrewSafety&Operation,1,1,1,1,0",",Ship route,Information,IMO instruments,Piracy,Piracy countermeasures
+Ship route,0,1,0,0,0
+Information,0,0,1,0,0
+IMO instruments,0,0,0,1,0
+Piracy,0,0,0,0,1
+Piracy countermeasures,1,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Appropriation & circulation,",Reduction of Environmental Impact,Port Cities,Cruise Industry,Social and Economic Benefits,Disruption (Legal and Normative)
+Reduction of Environmental Impact,0,1,1,0,1
+Port Cities,0,0,0,1,0
+Cruise Industry,0,0,0,1,0
+Social and Economic Benefits,0,0,0,0,0
+Disruption (Legal and Normative),0,1,1,1,0","Index,EnvironmentalImpact,CruiseShipTraffic,PortCityInfrastructure,SustainabilityMeasures,RegulatoryGovernance
+EnvironmentalImpact,0,1,1,1,1
+CruiseShipTraffic,1,0,1,1,1
+PortCityInfrastructure,1,1,0,1,0
+SustainabilityMeasures,1,1,1,0,1
+RegulatoryGovernance,1,1,0,1,0",",Climate,Weather,Waves,Ship,Port
+Climate,0,1,1,0,0
+Weather,1,0,0,0,0
+Waves,1,0,0,0,0
+Ship,0,0,0,0,1
+Port,0,0,0,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Appropriation & circulation,",NGO,coral,fisher1,fish1,fisher2,fish2,grass
+NGO,0,1,1,1,0,0,0
+coral,0,0,0,0,0,0,0
+fisher1,0,0,0,0,1,0,0
+fish1,0,0,1,0,0,0,0
+fisher2,0,0,0,0,1,0,0
+fish2,0,0,0,0,1,0,1
+grass,0,0,0,0,0,0,0","Index,BiodiversityConservation,SustainableDevelopmentInitiatives,TropicalCoastalEcosystems,Social-EcologicalMonitoring,ClimateConditions,CommunityEngagement,UnintendedConsequences
+BiodiversityConservation,0,1,1,1,1,1,1
+SustainableDevelopmentInitiatives,1,0,1,1,1,1,1
+TropicalCoastalEcosystems,1,1,0,1,1,1,1
+Social-EcologicalMonitoring,1,1,1,0,0,1,1
+ClimateConditions,1,1,1,0,0,0,0
+CommunityEngagement,1,1,1,1,0,0,1
+UnintendedConsequences,1,1,1,1,0,1,0",",mosquito net malaria prophylaxis,alternative livelihood programs,marine protected areas,megafauna conservation,local community,NGO,scientists
+mosquito net malaria prophylaxis,0,0,0,0,1,0,0
+alternative livelihood programs,0,0,0,0,1,0,0
+marine protected areas,0,0,0,0,1,0,0
+megafauna conservation,0,0,0,0,1,0,0
+local community,1,1,1,1,0,1,1
+NGO,0,1,1,1,0,0,0
+scientists,0,0,0,0,0,1,0",",
+,0,1,1,1,1,1,1
+,1,0,1,1,1,1,1
+,1,1,0,1,1,1,1
+,1,1,1,0,1,1,1
+,1,1,1,1,0,1,1
+,1,1,1,1,1,0,1
+,1,1,1,1,1,1,0"
+Appropriation & circulation,",Technical systems,Organisation,Human,Task,Environment
+Technical systems,0,1,1,1,0
+Organisation,1,0,1,0,1
+Human,1,1,0,1,1
+Task,1,0,1,0,1
+Environment,0,1,1,1,0","Index,OceanographicConditions,MaritimeSecurityThreats,ShipOperations,RiskManagementProcesses,RegulatoryGovernance
+OceanographicConditions,0,1,1,0,0
+MaritimeSecurityThreats,1,0,1,1,1
+ShipOperations,1,1,0,1,0
+RiskManagementProcesses,0,1,1,0,1
+RegulatoryGovernance,0,1,0,1,0",",Ship route,Information,IMO instruments,Piracy,Piracy countermeasures
+Ship route,0,1,0,0,0
+Information,0,0,1,0,0
+IMO instruments,0,0,0,1,0
+Piracy,0,0,0,0,1
+Piracy countermeasures,1,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Appropriation & circulation,",fish,habitat,potential fishers,whole
+fish,0,0,1,1
+habitat,1,0,1,1
+potential fishers,0,0,0,0
+whole,0,0,0,0","Index,ReefFishAbundances,HumanWell-BeingMeasures,GovernanceMechanisms,EnvironmentalConditions
+ReefFishAbundances,0,1,1,1
+HumanWell-BeingMeasures,1,0,1,0
+GovernanceMechanisms,1,1,0,0
+EnvironmentalConditions,1,0,0,0",",Marine Protected Areas,Fish Abundance,Local Well-Being,Reef Condition
+Marine Protected Areas,0,1,1,1
+Fish Abundance,0,0,1,0
+Local Well-Being,0,0,0,0
+Reef Condition,0,1,0,0",",
+,0,1,1,1
+,1,0,1,1
+,1,1,0,1
+,1,1,1,0"
+Appropriation & circulation,",shipping line,port authority,terminal operating company,competitive advantages,shipper forwader
+shipping line,0,1,1,1,0
+port authority,1,0,1,1,0
+terminal operating company,1,1,0,1,0
+competitive advantages,1,1,1,1,1
+shipper forwader,0,0,0,0,0","Index,
+PortAuthorityStrategies,0,1,1,1,1
+IntermodalTransportSystems,1,0,1,1,1
+EnvironmentalImpactConcerns,1,1,0,0,1
+OceanographicConditions,1,1,0,0,0
+MarketDynamics&Competition,1,1,1,0,0",",Port,Intermodal system,Inland terminal,Road transport,Short sea shipping
+Port,0,1,1,1,1
+Intermodal system,1,0,1,1,1
+Inland terminal,1,1,0,1,1
+Road transport,1,1,1,0,1
+Short sea shipping,1,1,1,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Appropriation & circulation,",NGO,turtoise,fish,fisher,grass
+NGO,0,1,0,0,0
+turtoise,0,0,0,0,1
+fish,0,0,0,1,0
+fisher,0,0,0,0,0
+grass,0,0,1,0,0","Index,Climate,MarineEcosystems,SustainableDevelopmentInitiatives,HumanActivities,ConservationOutcomes
+Climate,0,1,0,0,1
+MarineEcosystems,1,0,1,1,1
+SustainableDevelopmentInitiatives,0,1,0,1,1
+HumanActivities,0,1,1,0,1
+ConservationOutcomes,1,1,1,1,0",",Marine Protected Areas,Megafauna Conservation,Alternative Livelihood,Mosquito Net Malaria Prophylaxis,Local Socioeconomic Context
+Marine Protected Areas,0,1,1,1,1
+Megafauna Conservation,1,0,1,1,1
+Alternative Livelihood,1,1,0,1,1
+Mosquito Net Malaria Prophylaxis,1,1,1,0,1
+Local Socioeconomic Context,1,1,1,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",National Marine Ecological Civilization Construction Zone,Policy,Industrial structure,Technological innovation,Green development of marine economy
+National Marine Ecological Civilization Construction Zone,0,1,1,1,1
+Policy,0,0,0,0,1
+Industrial structure,0,0,0,0,1
+Technological innovation,0,0,0,0,1
+Green development of marine economy,0,0,0,0,0","Index,Climate,MarineSpecies/Resources,GreenDevelopmentLevel,TechnologicalInnovation&IndustrialStructure,PolicyInfluence(Admin,Citizen)
+Climate,0,1,1,1,0
+MarineSpecies/Resources,1,0,1,1,0
+GreenDevelopmentLevel,1,1,0,1,1
+TechnologicalInnovation&IndustrialStructure,1,1,1,0,1
+,0,0,1,1,0",",Green economic development level,Marine economic scale,Industrial structure,Environmental governance,Technological innovation
+Green economic development level,0,0,0,0,0
+Marine economic scale,1,0,0,0,0
+Industrial structure,1,0,0,0,0
+Environmental governance,1,0,0,0,0
+Technological innovation,1,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",Visitation,Tourism Capacities (Accommodation),Local Economies,Shocks,Environment,Activities,Social impacts
+Visitation,0,1,1,0,1,1,1
+Tourism Capacities (Accommodation),1,0,1,0,0,0,0
+Local Economies,0,1,0,0,0,0,1
+Shocks,1,1,1,0,1,0,0
+Environment,1,0,0,0,0,1,0
+Activities,0,0,1,0,1,0,1
+Social impacts,1,0,0,0,0,0,0","Index,
+Climate,0,1,1,0,0,1,1
+Species/Resources,1,0,1,0,0,1,1
+EnvironmentalConditions,1,1,0,0,0,1,1
+,0,0,0,0,1,1,1
+,0,0,0,1,0,1,1
+ParticipativeLearning,1,1,1,1,1,0,1
+RegionalResilience,1,1,1,1,1,1,0",",Climate,Environment,Habitat,Species,Human activities,Water quality,Regional planning
+Climate,0,1,1,0,0,0,0
+Environment,0,0,1,1,0,0,0
+Habitat,0,0,0,1,0,0,0
+Species,0,0,0,0,1,0,0
+Human activities,0,0,0,0,0,1,1
+Water quality,0,0,0,0,0,0,1
+Regional planning,0,0,0,0,0,0,0",",
+,0,1,1,1,1,1,1
+,1,0,1,1,1,1,1
+,1,1,0,1,1,1,1
+,1,1,1,0,1,1,1
+,1,1,1,1,0,1,1
+,1,1,1,1,1,0,1
+,1,1,1,1,1,1,0"
+Transformation & conservation,",Entertaining,Education,Esthetic,Escapist,Hedonic well-being,Eudaimonic well-being,eWOM intention
+Entertaining,0,0,0,0,1,1,0
+Education,0,0,0,0,1,1,0
+Esthetic,0,0,0,0,1,1,0
+Escapist,0,0,0,0,1,1,0
+Hedonic well-being,0,0,0,0,0,0,1
+Eudaimonic well-being,0,0,0,0,0,0,1
+eWOM intention,0,0,0,0,0,0,0","Index,Guests'Experience,HedonicWell-Being,EudaimonicWell-Being,Altruism,eWOMIntention,EnvironmentalConditions,SocialInteractions
+Guests'Experience,0,1,1,0,1,1,1
+HedonicWell-Being,1,0,1,0,1,0,0
+EudaimonicWell-Being,1,1,0,0,1,0,0
+Altruism,0,0,0,0,0,0,1
+eWOMIntention,1,1,1,0,0,0,0
+EnvironmentalConditions,1,0,0,0,0,0,0
+SocialInteractions,1,0,0,1,0,0,0",",Climate,Environment,Species and resources,Human,Leisure and tourism industry,Habitat no.1,Habitat no.2
+Climate,0,1,1,0,0,0,0
+Environment,0,0,1,0,0,0,0
+Species and resources,0,0,0,0,0,1,1
+Human,1,1,0,0,0,0,0
+Leisure and tourism industry,1,1,0,0,0,0,0
+Habitat no.1,0,0,0,0,0,0,1
+Habitat no.2,0,0,0,0,0,1,0",",
+,0,1,1,1,1,1,1
+,1,0,1,0,1,0,1
+,1,1,0,0,1,0,1
+,1,0,0,0,0,0,1
+,1,1,1,0,0,1,1
+,1,0,0,0,1,0,1
+,1,1,1,1,1,1,0"
+Transformation & conservation,",Social Capital,Perceived Behavioral Control,Behavioral Attitude,Subjective Norm,WTP
+Social Capital,0,1,1,1,0
+,0,0,1,0,1
+,0,0,0,0,1
+,0,0,0,0,1
+,1,0,0,0,0","Index,Guests'Experience,HedonicWell-Being,EudaimonicWell-Being,Altruism,eWOMIntention,EnvironmentalConditions,SocialInteractions
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0",",Environmental Governance,Marine Ecological Restoration,Water Quality,Sewage Treatment,ClimatTourism and Leisure
+Environmental Governance,0,1,0,0,0
+Marine Ecological Restoration,0,0,1,1,0
+Water Quality,0,0,0,0,1
+Sewage Treatment,0,0,0,0,0
+ClimatTourism and Leisure,0,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",scientific governance,literature Research,understanding Policy,identification stakeholder,driving forces
+scientific governance,0,1,0,0,0
+literature Research,0,0,1,1,1
+understanding Policy,0,0,0,0,0
+identification stakeholder,0,0,0,0,0
+driving forces,0,1,0,0,0","Index,
+StakeholderInvolvement,0,1,1,1,1
+MarineGovernanceFrameworks,1,0,1,1,1
+JointKnowledgeProduction,1,1,0,1,1
+,1,1,1,0,1
+Ecosystem-BasedManagementModels,1,1,1,1,0",",scientists,other scientists,managers and policy makers,NGO's,general public
+scientists,0,1,1,1,1
+other scientists,1,0,1,1,1
+managers and policy makers,1,1,0,1,1
+NGO's,1,1,1,0,1
+general public,1,1,1,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",Observation,Global Model,Regional Model,Ecosystem Model
+Observation,0,1,1,1
+Global Model,1,0,1,0
+Regional Model,1,0,0,1
+Ecosystem Model,1,0,0,0","Index,EcosystemForecasting,ObservationalNetworks,ClimateChangeImpact,SocioeconomicActivities
+EcosystemForecasting,0,1,1,1
+ObservationalNetworks,1,0,1,1
+ClimateChangeImpact,1,1,0,1
+SocioeconomicActivities,1,1,1,0",",Observations,Models,Data Assimilation,Forecasting
+Observations,0,1,0,0
+Models,0,0,1,0
+Data Assimilation,0,0,0,1
+Forecasting,0,0,0,0",",
+,0,1,1,1
+,1,0,1,1
+,1,1,0,1
+,1,1,1,0"
+Transformation & conservation,",
+nutrients,0,1,1,1,1
+upwelling current,1,0,1,1,1
+primary productivity,1,1,0,1,1
+fish community,0,0,0,0,0
+zooplankton community,0,0,0,1,0","Index,
+EnvironmentalFactors,0,1,1,1,1
+MarineLifeAssemblage,1,0,1,1,1
+,1,1,0,0,1
+NaturalInfluences,1,1,0,0,1
+,1,1,1,1,0",",
+Human Activities,0,1,1,0,0
+Water Quality,0,0,1,1,1
+Primary Productivity,0,0,0,1,1
+Macrozoobenthos Community,0,0,0,0,1
+Macrophyte Community,0,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",Seawater,Government,Water,1-a,a
+Seawater,0,1,1,0,1
+Government,1,0,1,1,1
+Water,0,0,0,0,0
+1-a,0,1,0,0,0
+a,1,1,1,0,0","Index,DesalinationIndustry,GovernmentPoliciesandSubsidies,MarketBarriers,EnvironmentalImpact,SocialEngagementandPublicPerception
+DesalinationIndustry,0,1,1,1,1
+GovernmentPoliciesandSubsidies,1,0,1,1,1
+MarketBarriers,1,1,0,0,1
+EnvironmentalImpact,1,1,0,0,1
+SocialEngagementandPublicPerception,1,1,1,1,0",",Desalination Plant,Water Supply Enterprise,Government,Water Resource,Incentive
+Desalination Plant,0,1,1,1,1
+Water Supply Enterprise,1,0,1,1,1
+Government,1,1,0,1,1
+Water Resource,1,1,1,0,1
+Incentive,1,1,1,1,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",plaintiff,defendant,so-called defendant,decision-maker,central government
+plaintiff,0,0,0,1,1
+defendant,0,0,1,1,0
+so-called defendant,0,1,0,0,1
+decision-maker,0,0,0,0,1
+central government,0,0,0,0,0","Index,EcosystemServices,EcologicalResearch,ManagementMeasures,StakeholderCommunication,EnvironmentalPressures
+EcosystemServices,0,1,1,1,1
+EcologicalResearch,1,0,1,1,1
+ManagementMeasures,1,1,0,1,1
+StakeholderCommunication,1,1,1,0,1
+EnvironmentalPressures,1,1,1,1,0",",Human Activities,Environmental Conditions,Habitat Components,Essential Ecosystem Processes,Ecosystem Services
+Human Activities,0,1,1,0,0
+Environmental Conditions,0,0,1,1,0
+Habitat Components,0,0,0,1,1
+Essential Ecosystem Processes,0,0,0,0,1
+Ecosystem Services,0,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Transformation & conservation,",central government,local government,Research institute,public participation
+central government,0,1,0,0
+local government,1,0,1,1
+Research institute,0,1,0,1
+public participation,0,1,1,0","Index,MarineSpatialPlanning(MSP),Ecosystem-BasedRestoration,PublicParticipationandTrust,TourismManagementandEco-FriendlyInfrastructure
+MarineSpatialPlanning(MSP),0,1,1,1
+Ecosystem-BasedRestoration,1,0,1,1
+PublicParticipationandTrust,1,1,0,1
+TourismManagementandEco-FriendlyInfrastructure,1,1,1,0",",Marine Ecological Environment,Marine Economic Development,Integrated Management,Social Economy
+Marine Ecological Environment,0,0,1,0
+Marine Economic Development,0,0,1,0
+Integrated Management,1,1,0,1
+Social Economy,0,0,1,0",",
+,0,1,1,1
+,1,0,1,1
+,1,1,0,1
+,1,1,1,0"
+Consumption & excretion,",Jakarta Coastal Defense Strategy,Economy,Social,Enviropment
+Jakarta Coastal Defense Strategy,0,1,1,1
+Economy,0,0,1,1
+Social,0,1,0,1
+Enviropment,0,1,1,0","Effluent,Environment,People,Machine
+,0,1,0,0
+,1,0,1,0
+,0,1,0,1
+,0,0,1,0",",Resettlement,Sea Wall Construction,Water Management,Integrated Coastal Development
+Resettlement,0,1,0,0
+Sea Wall Construction,0,0,1,0
+Water Management,0,0,0,1
+Integrated Coastal Development,1,0,0,0",",
+,0,1,1,1
+,1,0,1,1
+,1,1,0,1
+,1,1,1,0"
+Consumption & excretion,",
+Sustainable management strategies,0,1,1,1,1,1
+Land development,1,0,0,1,0,0
+Tourist activity,1,1,0,0,0,0
+Environmental pressure,0,0,0,0,1,0
+Coral reef coverage,1,0,0,0,0,0
+Delay,0,0,0,0,1,0","Effluent,
+Effluent,0,1,1,0,1,1
+Species,1,0,1,0,0,0
+Environment,1,1,0,1,1,1
+Tourism,0,0,1,0,1,1
+Management,1,0,1,1,0,1
+LandDev,1,0,1,1,1,0",",Local Economic Growth,Water Quality,Local Fish Catch,Local Fish Population,Coral Reef Condition,Tourism Development
+Local Economic Growth,0,1,0,0,0,1
+Water Quality,0,0,1,1,1,0
+Local Fish Catch,0,0,0,1,0,0
+Local Fish Population,0,0,0,0,1,0
+Coral Reef Condition,0,0,0,0,0,1
+Tourism Development,1,0,0,0,0,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Consumption & excretion,",Driving force,Pressure,State,Impact,Response
+Driving force,0,1,0,0,0
+Pressure,0,0,1,0,0
+State,0,0,0,1,0
+Impact,0,0,0,0,1
+Response,1,1,1,1,0","Effluent,Species,Environment,Machine,People
+,0,1,1,0,0
+,1,0,1,0,0
+,1,1,0,0,0
+,0,0,0,0,1
+,0,0,0,1,0",",Water Quality Management,Water Quality Standards,Water Quality Monitoring,Water Pollution Control,Integrated Management
+Water Quality Management,0,1,1,1,1
+Water Quality Standards,0,0,1,1,1
+Water Quality Monitoring,0,0,0,1,1
+Water Pollution Control,0,0,0,0,1
+Integrated Management,0,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Consumption & excretion,",Marine industry development,Economic development,Population growth,Reclamation,Artificial Boundary,Boundary length of urban and industrial,Boundary length of port terminals,Boundary length of pond bam
+Marine industry development,0,0,0,1,0,0,0,0
+Economic development,0,0,0,1,0,0,0,0
+Population growth,0,0,0,1,0,0,0,0
+Reclamation,0,0,0,0,1,0,0,0
+Artificial Boundary,0,0,0,0,0,0,0,0
+Boundary length of urban and industrial,0,0,0,0,1,0,0,0
+Boundary length of port terminals,0,0,0,0,1,0,0,0
+Boundary length of pond bam,0,0,0,0,1,0,0,0","Effluent,Species,Environment,Machine,People,Factory,Governance,Reclamation
+,0,1,1,0,0,0,0,0
+,1,0,1,0,0,0,0,0
+,1,1,0,1,1,0,0,1
+,0,0,0,0,1,1,1,1
+,0,0,1,1,0,1,1,1
+,0,0,0,1,1,0,1,1
+,0,0,0,1,1,1,0,1
+,0,0,1,1,1,1,1,0",",Industrial Zone,Power Plant,Refinery,Steel Plant,Port,Water Area,Construction Zone,Reclaimed Area
+Industrial Zone,0,1,1,1,1,0,0,0
+Power Plant,1,0,0,0,1,0,0,0
+Refinery,1,0,0,0,1,0,0,0
+Steel Plant,1,0,0,0,1,0,0,0
+Port,1,1,1,1,0,1,1,1
+Water Area,0,0,0,0,1,0,0,0
+Construction Zone,0,0,0,0,1,0,0,1
+Reclaimed Area,0,0,0,0,1,0,1,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Wastes output,",wet and dry deposition of HS,Direct and indirect photolysis UV,Input from diffuce and point sources,Sediment,Water
+wet and dry deposition of HS,0,0,0,0,1
+Direct and indirect photolysis UV,0,0,0,0,1
+Input from diffuce and point sources,0,0,0,0,1
+Sediment,0,0,0,0,1
+Water,0,0,0,1,0",",
+1.MarineContaminationLevels[,0,1,1,1,1
+2.EcosystemHealthIndicators[,1,0,1,1,1
+3.PolicyandGovernanceResponses[,1,1,0,1,1
+4.IndustrialEmissionSources[,1,1,1,0,1
+5.MitigationStrategies[,1,1,1,1,0",",Human Activities,Technology,Land-based Activities,Sea-based Activities,Marine Environment
+Human Activities,0,1,1,0,0
+Technology,0,0,0,0,0
+Land-based Activities,0,0,0,0,1
+Sea-based Activities,0,0,0,0,1
+Marine Environment,0,0,0,0,0",",
+,0,1,1,1,1
+,1,0,1,1,1
+,1,1,0,1,1
+,1,1,1,0,1
+,1,1,1,1,0"
+Wastes output,",Households,Municipality,Nutrients,Vegetation,Beams,Pikes
+Households,1,0,0,0,0,0
+Municipality,0,1,0,0,0,0
+Nutrients,0,0,1,0,0,0
+Vegetation,0,0,0,1,0,1
+Beams,0,1,0,0,1,1
+Pikes,0,0,0,1,1,1",",
+1.EffluentImpactonSpecies:,0,1,1,1,1,1
+2.HumanDecision-Making:,1,0,1,1,1,1
+3.TechnologicalSolutions:,1,1,0,1,1,1
+4.GovernanceandPolicy:,1,1,1,0,1,1
+5.ResearchandKnowledgeGeneration:,1,1,1,1,0,1
+6.ClimateFactors:,1,1,1,1,1,0",",Machine,People,Governance,Research,Ecosystem,Global
+Machine,0,1,1,1,0,0
+People,1,0,1,1,1,0
+Governance,1,1,0,1,1,0
+Research,1,1,1,0,1,0
+Ecosystem,0,1,1,1,0,1
+Global,0,0,0,0,1,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Wastes output,",Households,Municipality,Nutrients,Vegetation,Beams,Pikes
+Households,1,0,0,0,0,0
+Municipality,0,1,0,0,0,0
+Nutrients,1,0,1,0,1,1
+Vegetation,0,0,0,1,1,0
+Beams,1,0,1,1,1,0
+Pikes,0,1,1,0,0,1","Index,EcosystemServices,EcologicalResearch,ManagementMeasures,StakeholderCommunication,EnvironmentalPressures
+,0,1,1,1,1,1
+2.PolicyImplementationTiming[,1,0,1,1,1,1
+3.SocialPressureDynamics[,1,1,0,1,1,1
+4.TechnologicalAdoption[,1,1,1,0,1,1
+5.FeedbackMechanismsinEcosystem[,1,1,1,1,0,1
+6.InterdisciplinaryResearchInfluence[,1,1,1,1,1,0",",Human Needs,Policy Implementation,Technology Adoption,Lake State,Water Quality,Human Response
+Human Needs,0,1,0,0,0,0
+Policy Implementation,0,0,1,0,0,0
+Technology Adoption,0,0,0,0,0,1
+Lake State,0,0,0,0,1,0
+Water Quality,0,0,0,1,0,0
+Human Response,0,0,1,0,0,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Wastes output,",Households,Municipality,Nutrients,Vegetation,Beams,Pikes
+Households,1,0,0,0,0,0
+Municipality,0,1,0,0,0,0
+Nutrients,1,1,1,0,1,1
+Vegetation,0,0,0,1,1,0
+Beams,1,0,1,1,1,0
+Pikes,0,0,1,0,0,1",",
+1.NutrientLevels[,0,1,1,1,1,1
+2.WaterClarityState[,1,0,1,1,1,1
+3.ManagementActions[,1,1,0,1,1,1
+4.EcologicalDynamics[,1,1,1,0,1,1
+5.SocialInteractions[,1,1,1,1,0,1
+6.RestorationTrajectories[,1,1,1,1,1,0",",Phytoplankton,Zooplankton,Benthic Vegetation,Nutrients,Pelagic Zone,Benthic Zone
+Phytoplankton,0,1,0,1,1,0
+Zooplankton,1,0,0,0,1,0
+Benthic Vegetation,0,0,0,1,0,1
+Nutrients,1,0,1,0,0,0
+Pelagic Zone,1,0,0,0,0,1
+Benthic Zone,0,0,1,0,1,0",",
+,0,1,1,1,1,1
+,1,0,1,1,1,1
+,1,1,0,1,1,1
+,1,1,1,0,1,1
+,1,1,1,1,0,1
+,1,1,1,1,1,0"
+Wastes output,",
+population,0,1,0,0,0,0,0,0
+total waste in the environment,0,0,0,0,0,1,0,0
+available landfill dump space,0,1,0,1,1,0,0,0
+new landfill,0,0,0,0,0,0,0,0
+landfilling dumping,0,0,1,0,0,0,0,0
+waste collection and disposal,0,1,0,0,1,0,1,1
+recycling and composting,0,0,0,0,1,0,0,0
+avaliable revenue,0,0,0,0,0,1,0,0","WasteOutput,UrbanWastewater,WaterQualityModels,PollutionSources,Climate,Species,Governance,Research
+WasteOutput,0,1,1,1,0,1,1,1
+UrbanWastewater,1,0,1,1,0,1,1,1
+WaterQualityModels,1,1,0,1,1,1,1,1
+PollutionSources,1,1,1,0,0,1,0,1
+Climate,0,0,1,0,0,1,0,1
+Species,1,1,1,1,1,0,0,0
+Governance,1,1,1,0,0,0,0,1
+Research,1,1,1,1,1,0,1,0",",Machine,People,Government,Water quality modeling,Water quality modeling results,Water management policies,Water quality monitoring,Water quality
+Machine,0,1,1,0,0,0,0,0
+People,1,0,1,0,0,0,0,0
+Government,1,1,0,0,0,0,0,0
+Water quality modeling,1,0,0,0,0,0,0,0
+Water quality modeling results,0,0,0,1,0,0,0,0
+Water management policies,0,0,0,0,1,0,0,0
+Water quality monitoring,0,0,0,0,1,0,0,0
+Water quality,0,0,0,0,1,0,1,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Wastes output,",population,total waste in the environment,available landfill dump space,new landfill,landfilling dumping,waste collection and disposal,recycling and composting,avaliable revenue
+population,0,1,0,0,0,0,0,0
+total waste in the environment,0,0,0,0,0,1,0,0
+available landfill dump space,0,1,0,1,1,0,0,0
+new landfill,0,0,0,0,0,0,0,0
+landfilling dumping,0,0,1,0,0,0,0,0
+waste collection and disposal,0,1,0,0,1,0,1,1
+recycling and composting,0,0,0,0,1,0,0,0
+avaliable revenue,0,0,0,0,0,1,0,0",",----------,
+**MSW**,0,1,1,1,1,1,1,1
+**LandfillOperations**,1,0,1,1,1,1,1,1
+**LeachateCharacteristics**,1,1,0,1,1,1,1,1
+**IntegratedWasteManagement**,1,1,1,0,1,1,1,1
+**EnvironmentalImpact**,1,1,1,1,0,1,1,1
+**PolicyandGovernance**,1,1,1,1,1,0,1,1
+**PublicAwareness**,1,1,1,1,1,1,0,1
+**ResearchandTechnologyDevelopment**,1,1,1,1,1,1,1,0",",MLF,MSW,Collection,Resource,Disposal,Leachate,Leachate,Environment
+MLF,0,0,0,0,0,1,0,0
+MSW,0,0,1,0,0,0,0,0
+Collection,0,0,0,0,0,0,0,0
+Resource,0,0,0,0,0,0,0,0
+Disposal,0,0,0,0,0,0,0,0
+Leachate,0,0,0,0,0,0,0,1
+Leachate,0,0,0,0,0,0,0,1
+Environment,0,0,0,0,0,0,0,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
+Wastes output,",
+population,0,1,0,0,0,0,0,0
+total waste in the environment,0,0,0,0,0,1,0,0
+available landfill dump space,0,1,0,1,1,0,0,0
+new landfill,0,0,0,0,0,0,0,0
+landfilling dumping,0,0,1,0,0,0,0,0
+waste collection and disposal,0,1,0,0,1,0,1,1
+recycling and composting,0,0,0,0,1,0,0,0
+avaliable revenue,0,0,0,0,0,1,0,0",",
+1.MSW[,0,1,1,1,1,1,1,1
+2.LandfillOperations[,1,0,1,1,1,1,1,1
+3.LeachateComposition[,1,1,0,1,1,1,1,1
+4.IntegratedWasteManagement[,1,1,1,0,1,1,1,1
+5.EnvironmentalImpact[,1,1,1,1,0,1,1,1
+6.PolicyandGovernance[,1,1,1,1,1,0,1,1
+7.PublicAwarenessandBehavior[,1,1,1,1,1,1,0,1
+8.ResearchandTechnologyDevelopment[,1,1,1,1,1,1,1,0",",
+Environmental Policies,0,0,1,1,1,1,1,1
+Industrial Production,0,0,1,0,0,0,0,0
+Municipal Solid Waste,0,0,0,1,1,1,1,0
+Recycling,0,0,0,0,0,0,0,0
+Energy from Waste,0,0,0,0,0,0,0,0
+Organic Waste Treatment,0,0,0,0,0,0,0,0
+Landfill,0,0,0,0,0,0,0,1
+Leachate Treatment,0,0,0,0,0,0,0,0",",
+,0,1,1,1,1,1,1,1
+,1,0,1,1,1,1,1,1
+,1,1,0,1,1,1,1,1
+,1,1,1,0,1,1,1,1
+,1,1,1,1,0,1,1,1
+,1,1,1,1,1,0,1,1
+,1,1,1,1,1,1,0,1
+,1,1,1,1,1,1,1,0"
